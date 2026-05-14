@@ -1,0 +1,6 @@
+*.db
+*.json
+*.log
+*.xlsx
+*.csv
+*.spec
